@@ -1,4 +1,5 @@
 {
+    "buildCommand": "npm run setup-db",
     "builds": [
         {
             "src": "server.js",
