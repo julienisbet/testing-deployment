@@ -1,5 +1,5 @@
 {
-    "buildCommand": "npm run setup-db",
+    "installCommand": "npm i && npm run setup-db",
     "builds": [
         {
             "src": "server.js",
